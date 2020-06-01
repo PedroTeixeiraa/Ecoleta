@@ -1,5 +1,4 @@
 
-di
 ![Logo](https://user-images.githubusercontent.com/54821438/83463558-c2229880-a444-11ea-92df-2d737df447f6.jpg)
 # Ecoleta
 
