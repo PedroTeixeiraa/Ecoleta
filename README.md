@@ -10,7 +10,7 @@
 
 GIFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 
-## Tecnologias
+## 🚀 Tecnologias
 
 Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento mobile e web.
 -   ⚛️  **React Js**  — Uma biblioteca JavaScript para criar interfaces web
