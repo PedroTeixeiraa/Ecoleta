@@ -10,28 +10,28 @@
 
 GIFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 
-# Tecnologias
+## Tecnologias
 
-Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento mobile.
+Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento mobile e web.
 -   ⚛️  **React Js**  — Uma biblioteca JavaScript para criar interfaces web
 -   ⚛️  **React Native**  — Uma biblioteca que fornece uma maneira de criar aplicativos nativos para Android e iOS
 -   💹  **Node Js**  — Um interpretador de JavaScript assíncrono com código aberto
 
-# Começando
-1. Clone this repo using git clone git@github.com:CarlosLevir/tindev.git
-2. Move yourself to the appropriate directory: cd tindev
-3. Run yarn to install dependencies
-4. Run lerna bootstrap to install the packages dependecies
+## Começando
+1. Clone este repositório usando `$ git clone https://github.com/PedroTeixeiraa/Ecoleta.git`
+2. Mova-se para o diretório apropriado: cd ecoleta
+3. Run `$ npm install` para instalar todas as dependências
 
-### Getting started with the backend server
-* Move yourself to the backend folder: cd backend
-* Create a .env file and add the MongoDB url connection in MONGO_URL field
-* Run yarn dev to start the server
+### Introdução ao servidor back-end
+1. Mova-se para a pasta server: cd server
+3. Rode `$ npm run dev` para iniciar o servidor
 
-### Getting started with the frontend app
-* Move yourself to the frontend folder: cd frontend
-* Run yarn start to start the web application
+### Introdução ao servidor front-end
+1. Mova-se para a pasta web: cd web
+2. Rode `$ npm start` para iniciar a aplicação web
 
-### Getting started with the mobile app
-* Move yourself to the mobile folder: cd mobile
-* Run react-native run-ios (or run-android if your prefer) to start the mobile app
+### Introdução ao servidor mobile
+1. Mova-se para a pasta mobile: cd mobile
+
+## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rocketseat/semana-omnistack-11/blob/master/LICENSE.md) para mais detalhes.
