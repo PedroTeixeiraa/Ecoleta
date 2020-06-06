@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, StyleSheet, TouchableOpacity, Image, Text } from 'react-native'
 import Constants from 'expo-constants'
-import { Feather as Icon, FontAwesome } from '@expo/vector-icons'
+import { Feather as Icon, FontAwesome,  } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
 import { RectButton } from 'react-native-gesture-handler'
 
@@ -37,7 +37,7 @@ const Detail = () => {
 
                 <RectButton style={styles.button} onPress={() => {}}>
                     <Icon name="mail" size={20} color="#fff"/>
-                    <Text style={styles.buttonText}>Whatsapp</Text>
+                    <Text style={styles.buttonText}>E-mail</Text>
                 </RectButton>
             </View>
         </>
