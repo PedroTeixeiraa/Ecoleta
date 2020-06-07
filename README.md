@@ -17,7 +17,6 @@
 </a>
 </div>
 
-
 ## 🚀 Tecnologias
 
 Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento mobile e web.
@@ -36,7 +35,7 @@ Este aplicativo apresenta todas as mais recentes ferramentas e práticas em dese
 
 ### Server
 1. Mova-se para a pasta server: cd server
-2. Configure as urls em `PointsController.ts` e `ItemsController.ts` para `$ http://[seu_ip]:3333` 
+2. Atualize a baseURL em `src\controllers\ItemsController.ts` e `src\controllers\PointsController.ts`
 3. Rode `$ npm run dev` para iniciar o servidor
 
 ### Web
@@ -45,7 +44,7 @@ Este aplicativo apresenta todas as mais recentes ferramentas e práticas em dese
 
 ### Mobile
 1. Mova-se para a pasta server: cd mobile
-2. Configure a url em `api.tsx` para `$ http://[seu_ip]:3333` 
+2. Atualize a baseURL em `src/services/api.js`.
 3. Rode `$ npm start` para iniciar o servidor do expo
 
 
