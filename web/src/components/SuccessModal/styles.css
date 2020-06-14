@@ -1,0 +1,32 @@
+.success-modal {
+    
+    background: #0E0A14;
+    opacity: 0.95;
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+
+}
+
+.success-modal main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.success-modal main h1 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: bold;
+
+    padding-top: 20px;
+}

@@ -48,6 +48,9 @@
     border: 0;
   }
   
+  .modalRenderizada {
+    z-index: 1;
+  }
   #page-create-point form legend {
     width: 100%;
     display: flex;
